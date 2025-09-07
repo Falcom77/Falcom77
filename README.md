@@ -1,5 +1,5 @@
 # 💫 A propos de moi:
-Technicien informatique niveau 2. En quête de défie en développement, en collaboration avec AI<br>🔭 Je travaille actuellement sur Mon premier projet gestion sur la préparation d'un loboratoire  de VM gérer par "Hyper-V"<br>🌱 J'apprends actuellement La gestion d'un projet. La rédaction de prompte avec IA divers.<br>👨‍💻 Tous mes projets sont disponibles à l'adresse suivante : https://github.com/Falcom77/<br><br>
+Technicien informatique niveau 2. En quête de défie en développement, en collaboration avec AI<br>🔭 Je travaille actuellement sur Mon premier projet gestion sur la préparation d'un loboratoire  de VM gérer par "Hyper-V"<br>🌱 J'apprends actuellement La gestion d'un projet. La rédaction de prompte avec divers IA.<br>👨‍💻 Tous mes projets sont disponibles à l'adresse suivante : https://github.com/Falcom77/<br><br>
 
 
 # 🌐 Socials:
